@@ -1,0 +1,15 @@
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\bin\Debug\Hotel Reservation by Rastaman 2.0.exe.config
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\bin\Debug\Hotel Reservation by Rastaman 2.0.exe
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\bin\Debug\Hotel Reservation by Rastaman 2.0.pdb
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel Reservation by Rastaman 2.0.csprojResolveAssemblyReference.cache
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.Properties.Resources.resources
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel Reservation by Rastaman 2.0.csproj.GenerateResource.Cache
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel Reservation by Rastaman 2.0.exe
+c:\users\yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel Reservation by Rastaman 2.0.pdb
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.Main_Form.resources
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.Client_Info.resources
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.Users.resources
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.RoomInfo.resources
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.Reservation_Info.resources
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\obj\Debug\Hotel_Reservation_by_Rastaman_2._0.Login.resources
+C:\Users\Yssabel\onedrive\documents\visual studio 2012\Projects\Hotel Reservation by Rastaman 2.0\Hotel Reservation by Rastaman 2.0\bin\Debug\MySql.Data.dll
